@@ -16,7 +16,7 @@ namespace MDKApp3
         {
             InitializeComponent();
         }
-        /*
+        
                 private void button1_Click(object sender, EventArgs e)
                 {
                     // Полный путь к изображению с расширением файла (например, .jpg, .png)
@@ -41,7 +41,7 @@ namespace MDKApp3
                         MessageBox.Show($"Ошибка загрузки изображения: {ex.Message}");
                     }
                 }
-
+        /*
                 private void button2_Click(object sender, EventArgs e)
                 {
                     // Полный путь к изображению с расширением файла (например, .jpg, .png)
